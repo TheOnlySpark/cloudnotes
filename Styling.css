@@ -1,0 +1,29 @@
+
+
+h1{
+	color:white;
+	background:blue;
+	padding:20px;
+	font-family:arial;
+}
+
+button{
+	border-width:2px;
+	color:blue;
+	background:white;
+	padding:20px;
+	font-family:Arial;
+	border-radius:5px;
+	border-color:blue;
+	border-style:solid;
+	border-collapse:collapse;
+	width:250px;
+	font-size:36px;
+}
+button:hover{
+	color:white;
+	border-color:blue;
+	font-weight:bold;
+	background:blue;
+}
+
