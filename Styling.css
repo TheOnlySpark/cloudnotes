@@ -5,7 +5,7 @@ body{
 }
 
 
-header{
+div.header{
 	color:white;
 	background:blue;
 	padding:20px;
@@ -32,4 +32,5 @@ button:hover{
 	font-weight:bold;
 	background:blue;
 }
+
 
